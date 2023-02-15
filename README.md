@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlokMahapatra26
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Web dev
 
 
 <!---
